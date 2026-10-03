@@ -1,33 +1,32 @@
-# Sistema de Gestión de Empleados
+# Employee Management System
 
-Aplicación desarrollada en Python para gestionar empleados,
-sus departamentos y salarios.
+A Python application for managing employees, ages, their departments, and salaries.
 
-## Funcionalidades
+## Features
 
-- Mostrar empleados
-- Buscar empleados
-- Agregar empleados
-- Eliminar empleados
-- Filtrar por departamento
-- Filtrar por salario
-- Calcular salario promedio
-- Encontrar el empleado con mayor salario
-- Manejo de errores
-- Persistencia de datos
+- Display employees
+- Search employees
+- Add employees
+- Delete employees
+- Filter by department
+- Filter by salary
+- Calculate average salary
+- Find the highest-paid employee
+- Error handling
+- Data persistence
 - Logging
 
-## Tecnologías
+## Technologies
 
 - Python
 - JSON
 - Git
 - GitHub
 
-## Instalación
+## Installation
 
-Clonar el repositorio:
+Clone the repository:
 
 ```bash
-git clone https://github.com/cenidj/employee_manager
-
+git clone https://github.com/cenidj/CLI-Employees-Manager.git
+```
